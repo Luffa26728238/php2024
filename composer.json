@@ -1,0 +1,18 @@
+{
+  "name": "mdhs4/php2024",
+  "description": "A PHP",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Eric",
+      "email": "8an987@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "src/Framework",
+      "App\\": "src/App"
+    }
+  }
+}
